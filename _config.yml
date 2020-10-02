@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Misa's English Blog
 description: A blog about learning English and living in Toronto
+include: ["_posts/"]

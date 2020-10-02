@@ -1,4 +1,5 @@
+title: Misa's Blog
+description: English and Toronto
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-slate
-title: Misa's English Blog
-description: A blog about learning English and living in Toronto
-include: ["_posts/"]
